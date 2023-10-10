@@ -6,6 +6,8 @@ Welcome to the Frontend Development assignment with a strong emphasis on respons
 
 ## Assignment Requirements
 
+- **From the if applicable list, you must do minimum 10 among of them.**
+
 ### User-Facing Features
 
 ### Homepage
@@ -27,7 +29,7 @@ I**nteractivity (minimum 2 section):**
 
 1. Smooth Scrolling 
 2. Testimonials/Reviews Carousel
-3. About Us/Platform Description Reveal
+3. About Us/Platform Description Reveal ( On mouse hover or click show animated card or detailed view)
 4. Scroll-to-Top Button 
 5. Loading Spinner 
 
@@ -171,10 +173,9 @@ I**nteractivity (minimum 2 section):**
 - Overview of Platform Activities and Statistics
 - User Management Section
 - Content or Service Management Section
-- Booking Management Section
-- Content Management Section
-- Profile Management Section
-- Notifications Center
+- Booking , Content Management Section ( make any part of the webpage dynamically )
+- User profile summary
+- Notifications Center(optional)
 - Quick Links to Common Actions
 
 ### Enhancements for User Experience and Responsive Design (Bonus)
@@ -187,14 +188,6 @@ I**nteractivity (minimum 2 section):**
 2. Implement robust data validation and error handling mechanisms on the responsive frontend.
 3. Thoroughly test and debug the responsive design across various devices and screen sizes to ensure consistency.
 
-## Assignment Submission
-
-Your final submission should include the following:
-
-1. Source code (provide a GitHub Repository link for the responsive frontend developed).
-2. A live site link that allows reviewers to interact with the responsive frontend of the dynamic platform on both desktop and mobile devices.
-3. A recorded video (2-5 minutes) showcasing the key features and functionalities of your responsive frontend developed.
-
 ## Additional Notes
 
 - The assignment is adaptable to various types of content or services, making it suitable for a wide range of platforms.
@@ -204,10 +197,10 @@ Your final submission should include the following:
 
 ## Assignment Submission
 
-Your final submission should include:
+Your final submission should include the following:
 
-1. Source code (GitHub Repository link of frontend and backend).
-2. Live site link.
-3. A recorded video providing an overview of your project within 2-5 minutes.
+1. Source code (provide a GitHub Repository link for the responsive frontend developed).
+2. A live site link that allows reviewers to interact with the responsive frontend of the dynamic platform on both desktop and mobile devices.
+3. A recorded video (2-5 minutes) showcasing the key features and functionalities of your responsive frontend developed. ( any screen video recorder application or chrome extension. )
 
 [ Note: Must submit your complete website. Incomplete assignments will not be accepted. ]
