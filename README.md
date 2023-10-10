@@ -27,11 +27,11 @@ Welcome to the Frontend Development assignment with a strong emphasis on respons
 
 I**nteractivity (minimum 2 section):**
 
-1. Smooth Scrolling 
+1. Smooth Scrolling
 2. Testimonials/Reviews Carousel
 3. About Us/Platform Description Reveal ( On mouse hover or click show animated card or detailed view)
-4. Scroll-to-Top Button 
-5. Loading Spinner 
+4. Scroll-to-Top Button
+5. Loading Spinner
 
 ### Content or Service Listings
 
@@ -201,6 +201,8 @@ Your final submission should include the following:
 
 1. Source code (provide a GitHub Repository link for the responsive frontend developed).
 2. A live site link that allows reviewers to interact with the responsive frontend of the dynamic platform on both desktop and mobile devices.
-3. A recorded video (2-5 minutes) showcasing the key features and functionalities of your responsive frontend developed. ( any screen video recorder application or chrome extension. )
+3. A recorded video (2-5 minutes) showcasing the key features and functionalities of your responsive frontend developed. ( any screen video recorder application or chrome extension.
+
+[Chrome Web Store](https://chromewebstore.google.com/search/screen%20recorder) or https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb )
 
 [ Note: Must submit your complete website. Incomplete assignments will not be accepted. ]
